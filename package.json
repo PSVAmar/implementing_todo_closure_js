@@ -1,0 +1,23 @@
+{
+  "name": "hello-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PSVAmar/NodeProject.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PSVAmar/NodeProject/issues"
+  },
+  "homepage": "https://github.com/PSVAmar/NodeProject#readme",
+  "devDependencies": {
+    "eslint": "^8.28.0",
+    "jest": "^29.3.1"
+  }
+}
